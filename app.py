@@ -10,7 +10,7 @@ from sklearn.linear_model import LinearRegression
 from io import BytesIO
 
 st.set_page_config(layout="wide", page_title="KPI Forecaster & What-If Simulator")
-st.title("🚗 Car Dealership KPI Forecaster & What-If Simulator")
+st.title("🚗 DriveCast-Car Dealership KPI Forecaster & What-If Simulator")
 
 # -------------------------
 # Helper functions

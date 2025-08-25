@@ -11,20 +11,20 @@ It supports **time-series forecasting** (SARIMAX & Prophet), **correlation analy
 
 DriveCast/
 │── Data
-│   ├── Cleaned\_dataset       # Processed data ready for forecasting
-│   └── Raw\_dataset           # Original raw input data
+│   ├── Cleane_dataset       # Processed data ready for forecasting
+│   └── Raw_dataset           # Original raw input data
 │
 │── model
 │   ├── correlation.py        # Correlation analysis between KPIs
-│   ├── forecast\_Prophet.py   # Forecasting with Prophet
-│   └── forecast\_SARIMAX.py   # Forecasting with SARIMAX
+│   ├── forecast_Prophet.py   # Forecasting with Prophet
+│   └── forecast_SARIMAX.py   # Forecasting with SARIMAX
 │
 │── predictions               # Stores forecast results & exports
 │
 │── app.py                    # Main Streamlit dashboard app
-│── clean\_data.py             # Script for cleaning raw data
+│── clean_data.py             # Script for cleaning raw data
 │── requirements.txt          # Python dependencies
-│── sampledata\_2023           # Example dataset
+│── sampledata_2023           # Example dataset
 │── README.md                 # Project documentation
 
 ````

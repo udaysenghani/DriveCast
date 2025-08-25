@@ -54,13 +54,13 @@ DriveCast/
 ## 🖥️ Demo Screenshots
 
 ### Forecast_Panel 
-![Dashboard Screenshot](demo_img/Forecast_Panel.png)  
+![Dashboard Screenshot](/demo_img/Forecast_Panel.jpg)  
 
 ### Correlation_heatmap 
-![Dashboard Screenshot](demo_img/Correlation_heatmap.png)  
+![Dashboard Screenshot](/demo_img/Correlation_heatmap.jpg)  
 
 ### What-If-Simulator  
-![Forecast Screenshot](demo_img/What-If-Simulator.png)  
+![Forecast Screenshot](/demo_img/What-If-Simulator.jpg)  
 
 
 ---
@@ -120,4 +120,4 @@ Software Engineer | AI & Data Enthusiast 🚀
 
 🔗 [LinkedIn](https://linkedin.com/in/uday-senghani) 
 
-```
+---

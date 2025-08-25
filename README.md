@@ -65,6 +65,12 @@ DriveCast/
 
 ---
 
+
+## 🎥 Demo Video
+Watch the full demo here: [DriveCast Demo Video](https://drive.google.com/file/d/1H2znq5065ldz70QVgnyzcA74MxtyY9eQ/view?usp=sharing)
+
+
+---
 ## 🚀 Installation & Setup
 
 1. **Clone the repository**  

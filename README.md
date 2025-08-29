@@ -75,7 +75,7 @@ Watch the full demo here: [DriveCast Demo Video](https://drive.google.com/file/d
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/DriveCast.git
+   git clone https://github.com/udaysenghani/DriveCast.git
    cd DriveCast
     ```
 
